@@ -1,0 +1,12 @@
+M by N : 30 30
+steps: 2000
+robots: 9
+Madbot Kidd 29 28
+RoboTank Jet 28 28
+Terminator Alpha random random
+BlueThunder Beta 0 0
+RoboCop Star 29 29
+RoboCop Ga 29 30
+Terminator Wai 10 11
+Terminator Ba 10 12
+MedicBot Sil 28 29
